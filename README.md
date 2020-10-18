@@ -1,4 +1,4 @@
-[<img width="134" src="https://vk.com/images/apps/mini_apps/vk_mini_apps_logo.svg">](https://vk.com/services)
+<img width="369" src="https://badge.petrov.engineer/badge.svg" alt="GitHub">
 
 ## Hi there 👋
 
@@ -9,7 +9,7 @@ If you need more help than I can offer in issues, or you need help with private 
 
 ## What I'm up to
 
-Currently I'm focusing on VK Mini Apps platform and building awesome apps
+Currently I'm focusing on [VK Mini Apps](https://vk.com/services) platform and building awesome apps
 
 [<img width="36" style="border-radius:8px" src="https://sun7-7.userapi.com/AgjitdwIFnMMR9_9m69D_fyKIlwSRW3uiJ1ZOw/bROTE9te2VU.jpg" alt="Autospot Сервис" title="Autospot Сервис">](https://vk.com/app7555096)
 [<img width="36" style="border-radius:8px" src="https://sun9-51.userapi.com/c858420/v858420696/1eed91/gZfDIQ9JwhM.jpg" alt="QURAGA" title="QURAGA">](https://vk.com/app7403549)
